@@ -29,7 +29,7 @@ const Feature = () => {
             dataImage="https://img.freepik.com/free-vector/cute-rich-boy-throws-money-cartoon-vector-icon-illustration-people-business-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3950.jpg?w=740&t=st=1698935384~exp=1698935984~hmac=940f0a4695d7c7f2d4fe44a7e51d3b719cc955cde56d01ff1c3474bcf86f38c9"
           ></FeatureItem>
         </div>
-        <div className="col-md-4 offset-2">
+        <div className="col-md-4 offset-md-2">
           <FeatureItem
             dataTitle="Haqi"
             dataRole="Midlaner"
